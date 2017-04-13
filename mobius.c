@@ -2,7 +2,7 @@
 #include <math.h>
 #include <string.h>
 
-#define LEN 5
+#define LEN 6
 #define N   8
 #define DEBUG 0
 
